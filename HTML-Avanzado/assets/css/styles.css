@@ -1,0 +1,41 @@
+*{
+    font-family: segoe ui, arial, sans-serif;
+}
+
+h1{
+    color:steelblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.legend{
+color:steelblue;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+}
+
+input{
+
+    accent-color:steelblue;
+    color:steelblue ;
+    font-size: 20px;
+    }
+
+
+    .tablita{
+       border: 1px dotted rgba(0, 0, 0, 0.425);
+    }
+    
+
+.default{
+    background-color: steelblue;
+
+}
+
+th, tbody{
+    border: solid .5px rgb(0, 0, 0);
+    background-color: #fff;
+}
+
+tfoot{
+    border: solid .5px rgb(0, 0, 0);
+    background-color: #fff;
+}

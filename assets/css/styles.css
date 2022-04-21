@@ -1,0 +1,38 @@
+html{
+    box-sizing: border-box;
+    font-size: 100%;
+    
+}
+
+*,*:before,*:after{
+    box-sizing: inherit;
+}
+
+body{
+   font-family: 'Roboto', sans-serif;
+   background-image: linear-gradient(to left, rgba(43,155,209,1), rgba(29,209,242,1));
+   text-align: center;
+   font-size: 30px;
+   
+}
+h1, p{
+    
+    color: rgb(183, 238, 240);
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.356);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px;
+    margin: 50px 100px;
+    border: 2px solid white;
+}
+
+
+a:hover{
+    background-color: white;
+    color: black;
+    transition-delay:0.1s;
+}

@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(241, 240, 240);
+}
+
+.cajaflotante{
+    margin: 2rem;
+    background-color: white;
+    border-style: solid ;
+    border-width: 1px;
+    border-color: #ccc;
+    border-radius: 5px;
+    border-top: solid 0px;
+}
+
+.cabecera{
+    padding:10px;
+    border-bottom: solid 2px #eeee;
+}
+.contenido{
+    padding:10px;
+    border-bottom: solid 1px #eeee;
+}
+
+.botones{
+    padding:10px;
+    border-top: 2px #eeee;
+}
+
+#btn-aceptar{
+    background-color: rgb(43, 151, 240);
+    border:0px;
+    border-radius: 2px;
+    padding:5px;
+    color: white;
+}
+#btn-cancelar{
+    background-color: #aaaa;
+    border:0px;
+    border-radius: 2px;
+    padding:5px;
+    color: white;
+}

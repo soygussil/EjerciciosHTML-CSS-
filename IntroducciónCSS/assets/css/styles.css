@@ -1,0 +1,70 @@
+*{
+    border: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background:rgb(171, 193, 235);
+}
+h1{
+    font-size: 2rem;
+    color: crimson;
+    text-align: center;
+}
+
+
+p{
+
+    font-size:2rem;
+    color:steelblue;
+    text-align: justify;
+    padding: 2rem;
+}
+
+.salon{
+    color:blueviolet;
+}
+
+span{
+    color:salmon;
+}
+
+
+
+#redes_sociales{
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+
+#facebook{
+
+    padding:1rem;
+    border-radius: .5rem;
+    font-size: .8rem;
+    background: #3b5998;
+    color: white;
+    font-weight: bold;
+}
+
+#twitter{
+
+    padding:1rem;
+    border-radius: .5rem;
+    font-size: .8rem;
+    background: #3a74f1;
+    color: white;
+    font-weight: bold;
+}
+
+#instagram{
+
+    padding:1rem;
+    border-radius: .5rem;
+    font-size: .8rem;
+    background: linear-gradient(90deg, rgba(0,142,171,1) 0%, rgba(185,4,200,1) 29%, rgba(240,97,11,1) 76%, rgba(242,239,29,1) 95%);
+    color: white;
+    font-weight: bold;
+}
